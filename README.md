@@ -20,9 +20,13 @@ A hackathon project built using **Streamlit** for the frontend and **IBM Granite
 
 ## 📂 Project Structure
 ├── app.py # Streamlit frontend + chatbot logic
+
 ├── chatbot/ # Granite chatbot integration code
+
 ├── data/ # Expense data or database files
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Documentation
 
 ## 📝 Future Improvements
@@ -33,3 +37,4 @@ A hackathon project built using **Streamlit** for the frontend and **IBM Granite
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
+
